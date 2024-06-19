@@ -1,1 +1,1 @@
-# miniproject
+# C++ Solo Mini Project
